@@ -1,3 +1,3 @@
-# vue-multiple-page-template
+# vue-multiple-pages-template
 
-vue multiple page template
+vue multiple pages template

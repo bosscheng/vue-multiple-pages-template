@@ -2,11 +2,11 @@
     <div>
         this is c page
         <br/>
-        <a href="/">index page</a>
+        <a href="./">index page</a>
         <br/>
-        <a href="/a.html">a page</a>
+        <a href="./a.html">a page</a>
         <br/>
-        <a href="/b.html">b page</a>
+        <a href="./b.html">b page</a>
         <hello-world></hello-world>
         <demo></demo>
     </div>
